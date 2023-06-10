@@ -1,0 +1,4 @@
+frm input coding check angka tidaak boleh string (harga)
+frm login, di tabel pekerja nambah 1 kolom password+id
+jangan lupa diinput pekerja nambah 1 jtxt
+status di input diubah jadi cmb
